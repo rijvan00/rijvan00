@@ -1,10 +1,5 @@
 ### Hi there 👋
-
 <!--
-**rijvan00/rijvan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Realtime White Board Sharing App.
 - 🌱 I’m currently learning Docker, AWS(S3).
 - 👯 I’m looking to collaborate on Any Project in MERN stack.
