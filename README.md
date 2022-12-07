@@ -1,4 +1,4 @@
-                                                     HELLO WORLD👋, I'M RIJVAN AHMAD
+                                             HELLO WORLD👋, I'M RIJVAN AHMAD
 
 
 🔭 I’m currently working on REACT and TYPESCRIPT.
